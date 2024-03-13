@@ -27,5 +27,6 @@ orders = [
     },
 ]
 
+
 totals = compute_totals(orders)
 print(totals)
